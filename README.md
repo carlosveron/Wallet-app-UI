@@ -1,10 +1,10 @@
 # Wallet UI.
 A Simple wallet ui application
 
-![Image description](https://imgur.com/hK9aC77)
-![Image description](https://imgur.com/jPQPE7E)
-![Image description](https://imgur.com/8jaLNPe)
-![Image description](https://imgur.com/0D4oAg7)
+![alt text](https://imgur.com/hK9aC77)
+![alt text](https://imgur.com/jPQPE7E)
+![alt text](https://imgur.com/8jaLNPe)
+![alt text](https://imgur.com/0D4oAg7)
 
 ## Getting Started
 
