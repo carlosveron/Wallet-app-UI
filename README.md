@@ -1,6 +1,10 @@
-# payme
+# Wallet UI.
+A Simple wallet ui application
 
-A new Flutter project.
+![Image description](https://imgur.com/hK9aC77)
+![Image description](https://imgur.com/jPQPE7E)
+![Image description](https://imgur.com/8jaLNPe)
+![Image description](https://imgur.com/0D4oAg7)
 
 ## Getting Started
 
